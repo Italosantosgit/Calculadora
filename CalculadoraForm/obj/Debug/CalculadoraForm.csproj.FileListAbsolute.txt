@@ -1,0 +1,18 @@
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form1.resources
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.Cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projeto CRUD\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projeto CRUD\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projeto CRUD\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projeto CRUD\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projeto CRUD\CalculadoraForm\CalculadoraForm\bin\Debug\CalculadoraForm.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projeto CRUD\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projeto CRUD\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Form1.resources
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projeto CRUD\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.Properties.Resources.resources
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projeto CRUD\CalculadoraForm\CalculadoraForm\obj\Debug\CalculadoraForm.csproj.GenerateResource.Cache
